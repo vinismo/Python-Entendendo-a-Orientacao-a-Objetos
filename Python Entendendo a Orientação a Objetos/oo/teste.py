@@ -24,10 +24,13 @@
 # pessoa = Pessoa("Chalita", "Steppat")
 # pessoa.exibe_nome_e_sobrenome()
 
-class Jogo:
-    def __init__(self, contador):
-        self.contador = 0
+# class Jogo:
+#     def __init__(self, contador):
+#         self.contador = 0
 
-    def incrementa(self):
-        self.contador+=1
+#     def incrementa(self):
+#         self.contador+=1
 
+
+# x = "T".
+# print(type(x))
