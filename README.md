@@ -9,4 +9,3 @@
 + Entenda encapsulamento e coesão
 
 + Saiba quando deixar o seu método privado ou público
-
